@@ -1,0 +1,7 @@
+Preprocessing (scaling, handling imbalance).
+
+Train-test split.
+
+Machine learning models (Logistic Regression, Random Forest, XGBoost).
+
+Evaluation (ROC-AUC, Precision-Recall, Confusion Matrix).
